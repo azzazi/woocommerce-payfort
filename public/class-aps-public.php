@@ -1,6 +1,6 @@
 <?php
 
-/**
+/** vbvbvbbbbbbbbbbbbbbbbbbbbbbbbbb
  * The public-facing functionality of the plugin.
  *
  * @link       https://paymentservices.amazon.com/
